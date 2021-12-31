@@ -3,7 +3,7 @@ This repository contains a python program to collect data from Left Hand Ditch C
 In this example, we collect the water flow directly from the website. 
 
 # Files included
-- Python-WebScraping.py
+- WebScraping-BeautifulSoup.py
 - README.md
 - LICENSE.md
 - Run.bat
